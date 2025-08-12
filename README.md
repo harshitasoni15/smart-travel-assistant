@@ -39,7 +39,7 @@ Planning a trip can be time-consuming — travelers often have to browse multipl
 * **Frontend:** React, Tailwind CSS
 * **Backend:** Node.js, Express
 * **AI Integration:** OpenAI API (Prompting + Function Calling + Structured Output)
-* **RAG Storage:** Vector database (e.g., Pinecone / FAISS) for travel tips
+* **RAG Storage:** Vector database (e.g., Pinecone) for travel tips
 * **APIs:** Flight/Train Booking API, Weather API
 * **Deployment:** Vercel / Netlify for frontend, Render for backend
 
